@@ -500,107 +500,112 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts  [knowledge: 20
    - [Chat now](https://chat.openai.com/g/g-J45g1U3ro-alternative-histories)
    - Submit by [@greencat667](https://github.com/greencat667)
   
-9. 💉Inkspire
+10. 💉Inkspire
    - A GPT to help you create your dream tattoo and give your tattoo artist ideas.
    - [Chat now](https://chat.openai.com/g/g-zqlCXCzP0-inkspire)
    - Submit by [@emreisik95](https://github.com/emreisik95)
   
-9. 🧩Trivia Bot
+11. 🧩Trivia Bot
    - A GPT to help you create your own Trivia quiz or just spend some time answering questions.
    - [Chat now](https://chat.openai.com/g/g-mkdJHpJ2U-trivia-bot)
    - Submit by [@moutonf](https://github.com/moutonf)
 
-9. 🎅 Santa Claus
+12. 🎅 Santa Claus
    - Let your kids talk to Santa Claus
    - [Chat now](https://chat.openai.com/g/g-rZ4JVPmN2-santa-claus)
    - Submit by [@donaldmorton](https://github.com/donaldmorton)
 
-9. 😽Cat Maid
+13. 😽Cat Maid
    - Talk with your own cat-girl maid as in visual novels!
    - [Chat now](https://chat.openai.com/g/g-OH049w462-catmaid)
    - Submit by [@Liaozhaohe](https://github.com/Liaozhaohe)
   
-9. 🐶Dog Facts
+14. 🐶Dog Facts
    - Learn interesting and fun facts about dogs.
    - [Chat now](https://chat.openai.com/g/g-Wn1OixpiL-dog-facts)
    - Submit by [@ezzcodeezzlife](https://github.com/ezzcodeezzlife)
 
-9. 🐲Argvor, the Dungeon Master
+15. 🐲Argvor, the Dungeon Master
    - A creative, engaging DnD DM with a unique, personal tone
    - [Chat now](https://chat.openai.com/g/g-NsqUCaS93-argvor-the-dungeon-master)
    - Submit by [@Zeune42](https://www.reddit.com/user/Zeune42/)
 
-9. 🎤 Voice Over Generator
+16. 🎤 Voice Over Generator
    - Writes scripts and generates instant voice overs.
    - [Chat now](https://chat.openai.com/g/g-R4H9Al3sl-voice-over-generator)
    - Submit by [@imikerussell](https://github.com/imikerussell)
 
-9. 🌶️ Spicy Question master (Have an interesting evening with friends)
+17. 🌶️ Spicy Question master (Have an interesting evening with friends)
    - Try this question master to get inspiration and ask questions like a game show host and you can tune it up to ask for it to be more/less spicy
    - [Chat now](https://chat.openai.com/g/g-AcPoggC0T-spicy-questionmaster)
    - Submit by [@SimonDeno](https://github.com/SimonDeno)
   
-9. 🐸 Pepe Picasso
+18. 🐸 Pepe Picasso
    - A GPT tailored to create awesome Pepe Memes, featuring custom commands.
    - [Chat now](https://chat.openai.com/g/g-szij3m30a-pepe-picasso)
    - Submit by [@marcelcodes](https://github.com/marcelcodes)
   
-9. 📺 Screen Companion
+19. 📺 Screen Companion
    - A GPT that gives recommendations for movies, TV shows, and animes based on the user's tastes. It uses a compact table format with emoji ratings, including genres and additional information.
    - [Chat now](https://chat.openai.com/g/g-9T0hmzkPB-screen-companion)
    - Submit by [@TophatPandaMagician](https://github.com/TophatPandaMagician)
 
-9. 🎮 DeepGame - Visual Interactive Story Game
+20. 🎮 DeepGame - Visual Interactive Story Game
    - An interactive story game where you play through a story as a character, making decisions that shape the narrative. AI generates a new image for each step to enhance immersion.
    - [Play now](https://chat.openai.com/g/g-TzI2BlJPT-deepgame)
    - Submit by [@eliohead](https://github.com/eliohead)
 
-9. 💬 Chat with the Bitcoin Whitepaper
+21. 💬 Chat with the Bitcoin Whitepaper
    - A GPT allowing users to interact with and ask questions about the Bitcoin Whitepaper, exploring concepts related to Bitcoin.
    - [Chat now](https://chat.openai.com/g/g-j5Mk8W3J7-bitcoin-whitepaper-chat)
    - Submit by [@ezzcodeezzlife](https://github.com/ezzcodeezzlife)
 
-9. 🧱 The Message Wall
+22. 🧱 The Message Wall
    - This GPT allows you to put your message on the wall. You can see the wall and shared messages at: https://niyo.link/wall
    - [Chat now](https://chat.openai.com/g/g-5iuXoXfEk-the-message-wall)
    - Submit by [@niyoseris](https://github.com/niyoseris)
 
-9. ⏳ From Another Time 
+23. ⏳ From Another Time 
    - Talk to anyone, visit a place, past or future.
    - [Chat now](https://chat.openai.com/g/g-sg5h7XuWn-from-another-time)
    - Submit by [@CeamKrier](https://github.com/CeamKrier)
 
-9. 🔍 Cylect.io - Ultimate AI OSINT Tool
+24. 🔍 Cylect.io - Ultimate AI OSINT Tool
    - Our tool helps you find the data needle in the internet haystack.
    - [Chat now](https://chat.openai.com/g/g-aZQ1x6vqB-cylect-io-the-ultimate-ai-osint-tool)
    - Submit by [@nullze](https://github.com/nullze)
 
-9. 🤖 Roblox Mentor
+25. 🤖 Roblox Mentor
    - GPT that is an Expert in Roblox Studio
    - [Chat now](https://chat.openai.com/g/g-gUTZTTsVf-roblox-mentor)
    - Submitted by [@Master-of-secrets](https://github.com/Master-of-secrets)
 
-9. ⁉ Mystery Master
+26. ⁉ Mystery Master
    - A gpt that craft unique, diverse mysteries for players to solve.
    - [Chat now](https://chat.openai.com/g/g-jtMmejuyv-mystery-master)
    - Submitted by [@Master-of-secrets](https://github.com/Master-of-secrets)
   
-9. ⭐ GPT Duel Simulator
+27. ⭐ GPT Duel Simulator
    - An epic duel simulator between any two [anime/movies/video games] characters you can think of 
    - [Chat now](https://chat.openai.com/g/g-qYjcndY2u-gpt-duel-simulator)
    - Submit by [@GPTDuel](https://github.com/GPTDuel)
 
-9. 👩 Rin-chan
+28. 👩 Rin-chan
    - Chat with Rin (a girl who aspires to be a singer and even has her own schedule!) 
    - [Chat now](https://chat.openai.com/g/g-RiFAwSVeD-rin-chan)
    - Submit by [@GPTDuel](https://github.com/GPTDuel)
 
-9. 🍟 Anime Trivia
+29. 🍟 Anime Trivia
    - Your friendly anime trivia expert 
    - [Chat now](https://chat.openai.com/g/g-JzIxwuYF1-anime-trivia)
    - Submit by [@GPTDuel](https://github.com/GPTDuel)
 
-9. ❓ Riddle Master
+30. ❓ Riddle Master
    - Can you solve this riddle? 
    - [Chat now](https://chat.openai.com/g/g-j4iyVfj6M-riddle-master)
-   - Submit by [@GPTDuel](https://github.com/GPTDuel) 
+   - Submit by [@GPTDuel](https://github.com/GPTDuel)
+  
+31. 🧙‍♂️ Word Wizard
+   - Multiplayer Wordle-like GPT Game!
+   - [Chat Now](https://chat.openai.com/g/g-83YBVbpSb-word-wizard)
+   - Submit by [@niyoseris](https://github.com/niyoseris)
